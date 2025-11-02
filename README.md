@@ -5,4 +5,4 @@ Reliable measurement of childhood immunization coverage is central to public hea
 
 In Nigeria, for instance, the Demographic and Health Survey (NDHS) and Multiple Indicator Cluster Survey (MICS) are the main sources of vaccination statistics, but both face substantial underrepresentation of rural and less-educated households. These biases can produce misleading estimates of national immunization coverage and obscure inequities across regions or social groups.
 
-Traditional weighting or post-stratification methods are often used to correct survey imbalances. However, ... [Read complete report:](https://github.com/Paultimi20/Childhood-Immunization-Coverage-Bayesian-Postratification/blob/main/Bayesian_PostStratification_Immunization_Report.pdf)
+Traditional weighting or post-stratification methods are often used to correct survey imbalances. However, ... [Read complete report:](https://github.com/Paultimi20/Childhood-Immunization-Coverage-Bayesian-Postratification/blob/main/Correcting%20Survey%20Bias%20in%20Childhood%20Immunization%20Coverage%20Estimates%20Using%20Bayesian%20Post-Stratification_%20A%20Simulation-Based%20Study%20(2).pdf)
