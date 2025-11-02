@@ -1,1 +1,5 @@
-# Childhood-Immunization-Coverage-Bayesian-Postratification
+# Correcting Survey Bias in Childhood Immunization Coverage Estimates Using Bayesian Post-Stratification: A Simulation-Based Study
+
+### 1. Background of the Study
+Accurate estimates of childhood immunization coverage are essential for public health planning, evaluation, and policy. Immunization surveys such as the Demographic and Health Surveys (DHS) and Multiple Indicator Cluster Surveys (MICS) provide critical insights into vaccination rates, yet these surveys are prone to sampling bias, nonresponse, and measurement error. In many low- and middle-income countries, including Nigeria, these challenges are amplified by unequal access to households, differences in parental recall accuracy, and uneven participation across demographic and regional groups.
+Traditional weighting or post-stratification methods are often used to correct survey imbalances. However, these classical approaches depend on sufficient representation within each subgroup (e.g., age, education, or region) and can perform poorly when data are sparse. As survey nonresponse grows and populations become more heterogeneous, these techniques may no longer... [Read complete report:](https://github.com/Paultimi20/Childhood-Immunization-Coverage-Bayesian-Postratification/blob/main/Bayesian_PostStratification_Immunization_Report.pdf)
