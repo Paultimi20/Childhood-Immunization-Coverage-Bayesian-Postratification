@@ -1,4 +1,6 @@
-# Correcting Survey Bias in Childhood Immunization Coverage Estimates Using Bayesian Post-Stratification: A Simulation-Based Study
+# Correcting Survey Bias in Childhood Immunization Coverage Estimates Using Bayesian Post-Stratification
+### A Simulation-Based Study
+
 
 ### 1. Background of the Study
 Reliable measurement of childhood immunization coverage is central to public health planning. Immunization surveys inform national strategies, track global progress toward Sustainable Development Goals, and guide resource allocation. Yet, survey-based estimates are vulnerable to nonresponse bias, coverage error, and measurement error-issues particularly pronounced in low- and middle-income countries where logistical constraints and uneven access affect data quality.
